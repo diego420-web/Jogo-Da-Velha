@@ -1,0 +1,19 @@
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.exe
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.deps.json
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.runtimeconfig.json
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.runtimeconfig.dev.json
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.dll
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\ref\JOGO DA VELHA NEW.dll
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\bin\Debug\net5.0-windows\JOGO DA VELHA NEW.pdb
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO_DA_VELHA_NEW.Form1.resources
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO_DA_VELHA_NEW.Properties.Resources.resources
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.AssemblyInfo.cs
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.dll
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\ref\JOGO DA VELHA NEW.dll
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.pdb
+C:\Users\diego\source\repos\JOGO DA VELHA NEW\JOGO DA VELHA NEW\obj\Debug\net5.0-windows\JOGO DA VELHA NEW.genruntimeconfig.cache
